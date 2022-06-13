@@ -16,5 +16,10 @@ namespace Departament_project.Entities
             ValuePerHour = valuePerHour;
             Hour = hour;
         }
+
+        public double TotalValue ()
+        {
+            return Hour * ValuePerHour;
+        }
     }
 }
