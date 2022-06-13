@@ -1,16 +1,16 @@
 ﻿using System;
 
-namespace Departament_project.Entities
+namespace Salary.Calculate.Entities
 {
-    internal class Departament
+    internal class Department
     {
         public string Name { get; set; }
         
-        public Departament()
+        public Department()
         {
 
         }
-        public Departament(string name)
+        public Department(string name)
         {
             Name = name;
         }
