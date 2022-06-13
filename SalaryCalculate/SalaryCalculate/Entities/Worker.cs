@@ -8,12 +8,12 @@ namespace Salary.Calculate.Entities
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
-        public Departament Departament { get; set; }
+        public Department Departament { get; set; }
         public List<Contract> HourContract { get; set; } = new List<Contract>();
 
         public Worker() { }
 
-        public Worker(string name, WorkerLevel level, double baseSalary, Departament departament)
+        public Worker(string name, WorkerLevel level, double baseSalary, Department departament)
         {
             Name = name;
             Level = level;
