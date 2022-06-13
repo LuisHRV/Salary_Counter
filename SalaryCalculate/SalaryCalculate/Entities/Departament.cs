@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Departament_project.Entities
+namespace Salary.Calculate.Entities
 {
     internal class Departament
     {

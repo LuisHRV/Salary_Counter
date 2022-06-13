@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Departament_project</RootNamespace>
+    <RootNamespace>Salary.Calculate</RootNamespace>
   </PropertyGroup>
 
 </Project>

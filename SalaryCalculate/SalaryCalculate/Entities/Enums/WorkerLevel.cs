@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Departament_project.Entities.Enums
+namespace Salary.Calculate.Entities.Enums
 {
     internal class WorkerLevel
     {

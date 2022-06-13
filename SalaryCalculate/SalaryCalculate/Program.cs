@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Departament_project
+namespace Salary.Calculate
 {
     internal class Program
     {
